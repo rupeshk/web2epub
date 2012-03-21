@@ -1,6 +1,6 @@
 #web2epub
 
-web2epub is a command line tool to convert a set of web/html pages to epub. web2epub is written in Python.
+web2epub is a command line tool to convert a set of html to epub. web2epub is written in Python.
 
 ##Features
 
